@@ -1,0 +1,95 @@
+
+<html>
+
+<meta charset="UTF-8">
+
+<head>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="{{url_for('static',filename='css/home.css') }}">
+<style>
+body{
+background-color: #F2f2f2;
+margin: 0px;
+padding: 0px;
+width: 100%;
+height: 100%;
+}
+.topnav {
+  overflow: hidden;
+  background-color:#20B2AA ;
+height: 90px;
+}
+label {
+color: white;
+margin-left: 400px;
+font-size: 30px;
+position: fixed;
+margin-top: 30px;
+font-family: "Times New Roman";
+}
+.display-container{
+max-width: 1000px;
+position: relative;
+margin: auto;
+margin-top: 10px;
+}
+.btn{
+  cursor:pointer;
+}
+
+</style>
+
+<body>
+
+  <div class='topnav'>
+  
+		<label for="rwu" style="margin-left:40%; margin-top: 20px;"> customer feedback Portal </label>
+  </div>
+
+
+<a href="{{ url_for('game_home') }}">
+<button type="button" value="Get Started" class="btn" style=" background-color:2FB689;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+margin-left: 350px;
+margin-top: 10%; "> ADD Entries >> </button>
+</a>
+
+
+<a href="{{ url_for('search') }}">
+<button type="button" value="Get Started" class="btn" style=" background-color:2FB689;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+margin-left: 200px;
+margin-top: 10%; "> Search Entries >> </button>
+</a>
+
+
+<a href="{{ url_for('details') }}">
+<button type="button" value="Get Started" class="btn" style=" background-color:2FB689;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+margin-left: 550px;
+margin-top: 5%; "> Consumer Details >> </button>
+</a>
+
+
+
+</body>
+</html>

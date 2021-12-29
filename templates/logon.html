@@ -1,0 +1,56 @@
+
+<html>
+<head>
+<title> search page </title>
+
+<link rel="stylesheet" href="{{url_for('static',filename='css/style2.css') }}" >
+<link rel="stylesheet" href="{{url_for('static',filename='css/home1.css') }}">
+
+<link rel="stylesheet" href="{{url_for('static',filename='css/style1.css') }}" >
+
+</head>
+
+<style>
+
+.text{
+
+height: 100%;
+width : 100%;
+margin-top:-4%;
+
+}
+
+</style>
+
+<body>
+
+
+  <div class='topnav' style =" height: 90px ; ">
+  
+  <label for="rwu" style="margin-left:40%; margin-top: 20px;"> customer feedback Portal </label>
+  </div>
+	
+<div class="flex-container">
+  <div class="content-container">
+ 
+    <div class="form-container">
+      <form action="{{ url_for('searching') }}" method ="POST">
+        <h1>
+          Welcome to Search Page 
+        </h1>
+        <br>
+      
+        <span class="subtitle"> Ticket ID:</span>
+        <br>
+        <input type="number" name="TicketID" value="" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);" maxlength="7" required >
+        <br> <br>
+     
+        <input type="submit" value="SUBMIT" class="submit-btn">
+      </form>
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,87 @@
+<html>
+
+<title> Add Game </title>
+
+<link rel="stylesheet" href="{{url_for('static',filename='css/style2.css') }}" >
+<link rel="stylesheet" href="{{url_for('static',filename='css/home1.css') }}">
+
+<link rel="stylesheet" href="{{url_for('static',filename='css/style1.css') }}" >
+
+</head>
+
+<style>
+
+.text{
+
+height: 100%;
+width : 100%;
+margin-top:-4%;
+
+}
+
+</style>
+
+<script>
+
+function lettersValidate(key) {
+    var keycode = (key.which) ? key.which : key.keyCode;
+
+    if ((keycode > 64 && keycode < 91) || (keycode > 96 && keycode < 123))  
+    {     
+           return true;    
+    }
+    else
+    {
+        return false;
+    }
+         
+}
+
+</script>
+
+  <body>
+  
+  <div class='topnav' style =" height: 60px ; ">
+  <label for="rwu" style="margin-left:40%;"> customer feedback Portal </label>
+  </div>
+  
+  <div class="flex-container">
+  <div class="content-container">
+ 
+    <div class="form-container" style=" height: 130%; margin-top:-7%; ">
+      <form action="{{ url_for('add_game') }}" method ="POST">
+        
+	<br><br><br>
+	  <span class="subtitle">TicketID :</span> 
+      <input type="number" name="TicketID" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);" maxlength="7" required><br>
+	  
+	  <span class="subtitle">Form :</span> 
+	  <input type="text" name="Form" required onkeypress="return lettersValidate(event)" ><br>
+	  
+	  <span class="subtitle">Method :</span> 
+	  <input type="text" name="Method" required onkeypress="return lettersValidate(event)" ><br>
+	  
+	  <span class="subtitle">Issue :</span> 
+	  <input type="text" name="Issue" required onkeypress="return lettersValidate(event)" ><br>
+	  
+	  <span class="subtitle">City :</span> 
+	  <input type="text" name="City" required onkeypress="return lettersValidate(event)" ><br>
+	  
+	  <span class="subtitle">State :</span> 
+	  <input type="text" name="State" required minlength="2" maxlength="2" onkeypress="return lettersValidate(event)" ><br>
+	  
+	  <span class="subtitle">Zip :</span> 
+	  <input type="number" name="Zip" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);" maxlength="5" required><br>
+	  
+      <input style="margin-left: 30%; width:30%; " type="submit" value="Add " class="submit-btn">
+    </form>
+	
+        
+    </div>
+  </div>
+</div>
+  
+
+
+  </body>
+</html>

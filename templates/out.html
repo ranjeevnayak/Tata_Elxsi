@@ -1,0 +1,76 @@
+<html>
+
+<title> Update Game </title>
+
+
+<link rel="stylesheet" href="{{url_for('static',filename='css/style2.css') }}" >
+<link rel="stylesheet" href="{{url_for('static',filename='css/home1.css') }}">
+
+<link rel="stylesheet" href="{{url_for('static',filename='css/style1.css') }}" >
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+
+th, td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+.content{
+	margin-left:35%;
+
+}
+
+</style>
+
+
+<body>
+
+  <div class='topnav' style =" height: 80px ; ">
+  <br>
+  <label for="rwu" style="margin-left:30%; margin-top:10%; "> customer feedback Portal list  </label>
+  </div>
+
+	<div class="content">
+     
+		<h1 style="color:black; "> data fetch sucessfully </h1>
+		
+		<table style="color: black; margin-left:-30%;">
+         <thead>
+            <tr>
+               <th> TicketID </th>
+               <th> Form </th>
+               <th> Method </th>
+               <th> Issue </th>
+			   <th> City </th>
+               <th> State </th>
+               <th> Zip </th>
+            </tr>
+         </thead>
+         
+         <tbody>
+		    {% for con in cons %}
+			<tr>
+				<td>{{ con[0] }}</td>
+				<td>{{ con[1] }}</td>
+				<td>{{ con[2] }}</td>
+				<td>{{ con[3] }}</td>
+				<td>{{ con[4] }}</td>
+				<td>{{ con[5] }}</td>
+				<td>{{ con[6] }}</td>
+            
+            </tr>
+		{% endfor %}
+         </tbody>
+      </table>
+		
+		
+	</div>
+	
+
+</body>
+</html>

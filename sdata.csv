@@ -1,0 +1,228 @@
+TicketID,Form,Method,Issue,City,State,Zip
+1374777,Internet,DSL,Speed,Barry,TX,75102
+1374780,TV,Cable,Billing,Kittanning,PA,16021
+1374781,Phone,Wireless (cell phone/other mobile device),Availability (including rural call completion),Taos,NM,87571
+1374782,Internet,Cable,Speed,Jacksonville,AR,72076
+1374783,Internet,Cable,Billing,American Canyon,CA,94503
+1374785,Internet,Wireless,Open Internet/Net Neutrality,Boardman,OH,44512
+1374786,Internet,Cable,Equipment,Lombard,IL,60148
+1374788,Phone,Wireless (cell phone/other mobile device),Billing,Saint Cloud,FL,34772
+1374790,Internet,Cable,Open Internet/Net Neutrality,Hillsboro,OR,97123
+1374792,Phone,Wireless (cell phone/other mobile device),Privacy,Albuquerque,NM,87113
+1374794,TV,Satellite,Billing,Nevada City,CA,95959
+1374797,Internet,Wireless,Availability,Topock,AZ,86436
+1374801,Phone,Wireless (cell phone/other mobile device),Privacy,Brea,CA,92821
+1374804,Internet,Satellite,Interference,Deer Park,WA,99006
+1374806,Internet,Cable,Speed,Laingsburg,MI,48848
+1374809,TV,Satellite,Billing,San Juan Capistrano,CA,92675
+1374811,Radio,Amateur Radio,Interference,New Port Richey,FL,34652
+1374813,Internet,Cable,Open Internet/Net Neutrality,Valparaiso,IN,46385
+1374814,Internet,Cable,Speed,Tampa,FL,33606
+1374815,Phone,Wireless (cell phone/other mobile device),Billing,Apache Junction,AZ,85120
+1374816,Phone,Wireless (cell phone/other mobile device),Billing,Minneapolis,MN,55407
+1374818,TV,Satellite,Indecency,Boerne,TX,78006
+1374821,Internet,DSL,Billing,Atlanta,GA,30311
+1374822,TV,Broadcast,Open Internet/Net Neutrality,Glendale,MO,63122
+1374823,Internet,Wireless,Interference,Humble,TX,77338
+1374824,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Wake Village,TX,75501
+1374826,Internet,Cable,Open Internet/Net Neutrality,Manteca,CA,95337
+1374828,Internet,Cable,Open Internet/Net Neutrality,Everett,WA,98204
+1374831,Internet,Cable,Billing,Mobile,AL,36695
+1374834,TV,Fiber,Availability,Camas,WA,98607
+1374835,Internet,Wireless,Billing,Post,TX,79356
+1374839,Phone,Wireless (cell phone/other mobile device),Billing,Charlotte,NC,28215
+1374843,Internet,Cable,Billing,Spring Grove,IL,60081
+1374845,Internet,Cable,Speed,Sierra Madre,CA,91024
+1374846,Phone,Wireless (cell phone/other mobile device),Billing,Delmar,MD,21875
+1374850,Internet,Cable,Billing,Miami,FL,33147
+1374852,Phone,Wired,Unwanted Calls,Campbellsville,KY,42718
+1374853,TV,Satellite,Billing,Bethlehem,PA,18017
+1374857,Phone,Wired,Unwanted Calls,Dunstable,MA,1827
+1374870,Internet,Cable,Equipment,Boulder,CO,80301
+1374872,Internet,Cable,Billing,Brooklyn,NY,11232
+1374875,Phone,Wireless (cell phone/other mobile device),Availability (including rural call completion),Pojoaque,NM,87501
+1374876,Phone,Wireless (cell phone/other mobile device),Billing,Slidell,LA,70458
+1374883,Internet,DSL,Billing,Eddyville,KY,42038
+1374885,TV,Cable,Indecency,Marina Del Rey,CA,90292
+1374886,Phone,Wired,Billing,San Fernando,CA,91340
+1374890,Internet,Cable,Billing,Belvidere,IL,61008
+1374892,TV,Cable,Availability,Orlando,FL,32839
+1374897,TV,Satellite,Indecency,Dallas,GA,30132
+1374902,Phone,Wireless (cell phone/other mobile device),Privacy,Murieta,CA,92562
+1374904,Internet,Cable,Open Internet/Net Neutrality,Kent,WA,98032
+1374909,Internet,DSL,Privacy,Castrovillle,CA,95012
+1374911,Phone,Wireless (cell phone/other mobile device),Billing,Evanston,IL,60201
+1374913,TV,Satellite,Availability,Auburn,CA,95603
+1374917,Internet,Cable,Open Internet/Net Neutrality,Bellevue,WA,98004
+1374919,Phone,Wireless (cell phone/other mobile device),Billing,Atlanta,GA,30318
+1374921,Phone,Wireless (cell phone/other mobile device),Availability (including rural call completion),Muncie,IN,47304
+1374923,Internet,Cable,Open Internet/Net Neutrality,West Palm Beach,FL,33409
+1374927,TV,Satellite,Availability,Cocoa,FL,32927
+1374929,TV,Cable,Equipment,Lutz,FL,33549
+1374930,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Columbia,SC,29211
+1374932,TV,Cable,Availability,Baltimore,MD,21209
+1374934,TV,Satellite,Indecency,Monticello,KY,42633
+1374935,TV,Satellite,Availability,Cartersville,GA,30121
+1374937,Phone,Wireless (cell phone/other mobile device),Privacy,Tampa,FL,33618
+1374938,TV,Satellite,Availability,New Castle,PA,16101
+1374942,Internet,Wireless,Availability,Taylorsville,KY,40071
+1374944,TV,Satellite,Availability,Canton,GA,30115
+1374947,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Brooklyn,NY,11217
+1374948,TV,Satellite,Availability,Allyn,WA,98524
+1374951,Phone,Wired,Privacy,Coweta,OK,74429
+1374955,Phone,Wired,Privacy,Coweta,OK,74429
+1374958,Internet,Wireless,Availability,Lake Park,FL,33403
+1374960,TV,Satellite,Availability,Duluth,GA,30096
+1374963,TV,Satellite,Availability,Dracut,MA,1826
+1374965,TV,Fiber,Availability,Boone,NC,28607
+1374969,Internet,Cable,Billing,Thornton,CO,80602
+1374971,TV,Satellite,Availability,Liberty,MO,64068
+1374972,TV,Satellite,Availability,North Haverhill,NH,3774
+1374976,TV,Satellite,Availability,Baltimore,MD,21229
+1374980,TV,Cable,Availability,Belmont,NC,28012
+1374983,Phone,Internet (VOIP),Unwanted Calls,North Las Vegas,NV,89031
+1374985,TV,Satellite,Availability,Lower Burrell,PA,15068
+1374987,Internet,Cable,Open Internet/Net Neutrality,Lawrenceburg,IN,47025
+1374989,Phone,Wired,Interference (including signal jammers),Jonesville,VA,24263
+1374991,TV,Cable,Availability,Kissimmee,FL,34744
+1375000,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Roper,NC,27970
+1375003,Internet,Wireless,Availability,Smith River,CA,95567
+1375005,TV,Satellite,Billing,Derry,NH,3038
+1375007,Internet,Cable,Equipment,Cedartown,GA,30125
+1375010,TV,Satellite,Availability,Albuquerque,NM,87112
+1375014,TV,Cable,Equipment,Plymouth,MA,2360
+1375016,TV,Satellite,Availability,Clermont,FL,34711
+1375019,Phone,Wireless (cell phone/other mobile device),Billing,Brooklyn,NY,11214
+1375020,Internet,Cable,Billing,Upper Saddle River,NJ,7458
+1375024,TV,Satellite,Availability,Flovilla,GA,30216
+1375026,Phone,Wireless (cell phone/other mobile device),Billing,Clover,SC,29710
+1375030,TV,Satellite,Availability,Rock Hill,SC,29730
+1375035,TV,Cable,Availability,Jacksonville,FL,32258
+1375036,Internet,Cable,Equipment,Alexandria,VA,22304
+1375037,TV,Cable,Availability,Morgantown,WV,26508
+1375043,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Brooklyn,NY,11218
+1375044,Phone,Wireless (cell phone/other mobile device),Billing,New York,NY,10002
+1375045,TV,Satellite,Availability,Yulee,FL,32097
+1375047,Internet,Cable,Billing,Havertown,PA,19083
+1375049,Phone,Wireless (cell phone/other mobile device),Billing,Lakewood,CA,90712
+1375051,Phone,Wireless (cell phone/other mobile device),Privacy,Oakland,PA,15213
+1375053,Phone,Wireless (cell phone/other mobile device),Equipment,San Francisco,CA,94117
+1375055,Internet,Cable,Billing,Lacey,WA,98513
+1375059,TV,Satellite,Availability,Orlando,FL,32824
+1375061,Phone,Wireless (cell phone/other mobile device),Billing,Woodbury,MN,55125
+1375065,Phone,Wireless (cell phone/other mobile device),Billing,West Bloomfield,MI,48322
+1375066,Internet,Cable,Billing,Houghton,MI,49931
+1375069,Internet,Cable,Interference,Longmont,CO,80503
+1375071,TV,Satellite,Availability,Indian Harbor Bch,FL,32937
+1375072,TV,Cable,Availability,Duluth,GA,30096
+1375073,TV,Satellite,Interference,Shorewood,WI,53211
+1375075,Internet,Cable,Interference,Naples,FL,34116
+1375077,TV,Satellite,Availability,Uxbridge,MA,1569
+1375079,Phone,Wireless (cell phone/other mobile device),Billing,Baltimore,MD,21224
+1375084,Phone,Wireless (cell phone/other mobile device),Billing,Glenham,SD,57631
+1375085,TV,Satellite,Availability,Murrysville,PA,15668
+1375086,TV,Cable,Availability,Mansfield,MA,2048
+1375088,Internet,Cable,Availability,Coldwater,MS,38618
+1375091,Internet,Wireless,Interference,Oakland,PA,15213
+1375092,Internet,Wireless,Interference,Highland,CA,92346
+1375094,TV,Broadcast,Interference,Maysville,MO,64469
+1375096,TV,Satellite,Availability,Urbandale,IA,50323
+1375101,TV,Satellite,Availability,Gibsonia,PA,15044
+1375104,TV,Cable,Indecency,Charlotte,NC,28226
+1375107,Internet,Cable,Speed,Fort Lauderdale,FL,33334
+1375109,Phone,Wireless (cell phone/other mobile device),Billing,Brooklyn,NY,11229
+1375111,Internet,Cable,Billing,Denver,CO,80206
+1375124,Phone,Wireless (cell phone/other mobile device),Billing,Warrington,PA,18976
+1375125,TV,Cable,Indecency,Cedar,MI,49621
+1375127,TV,Fiber,Equipment,Shirley,MA,1464
+1375130,TV,Satellite,Availability,Lynden,WA,98264
+1375133,TV,Satellite,Availability,Tulsa,OK,74137
+1375134,Phone,Wireless (cell phone/other mobile device),Billing,Roseville,MI,48066
+1375137,Phone,Internet (VOIP),Billing,Ringgold,GA,30736
+1375139,Internet,Cable,Billing,Chicago,IL,60707
+1375144,TV,Satellite,Availability,Anacortes,WA,98221
+1375146,Phone,Wireless (cell phone/other mobile device),Billing,Encino,CA,1316
+1375149,Internet,Cable,Speed,Davenport,IA,52804
+1375153,TV,Satellite,Availability,Woodward,OK,73801
+1375156,Phone,Wireless (cell phone/other mobile device),Interference (including signal jammers),Oakland,PA,15213
+1375158,TV,Satellite,Availability,Kent,WA,98031
+1375160,TV,Cable,Availability,Columbia,CA,95310
+1375162,Internet,DSL,Availability,Jacksonville,FL,32217
+1375164,Internet,Cable,Speed,Minonk,IL,61760
+1375167,TV,Satellite,Interference,Cape Coral,FL,33909
+1375168,TV,Broadcast,Interference,New Market,TN,37820
+1375169,TV,Satellite,Availability,Latrobe,PA,15650
+1375171,Phone,Wired,Unwanted Calls,Bothell,WA,98012
+1375173,Phone,Internet (VOIP),Unwanted Calls,Phoenix,AZ,85064
+1375174,Internet,Wireless,Billing,Allen,TX,75002
+1375177,Internet,Cable,Billing,Bonney Lake,WA,98391
+1375179,Phone,Wireless (cell phone/other mobile device),Equipment,Columbus,OH,43228
+1375180,Phone,Wired,Unwanted Calls,Arlington,VA,22205
+1375182,Phone,Wireless (cell phone/other mobile device),Billing,Fayetteville,NC,28303
+1375185,TV,Satellite,Availability,Oklahoma City,OK,73109
+1375190,Phone,Wired,Unwanted Calls,Cary,NC,27511
+1375192,Internet,DSL,Availability,Brownsville,TX,78520
+1375194,TV,Cable,Availability,Saint Augustine,FL,32084
+1375196,Internet,Cable,Billing,Spokane,WA,99207
+1375198,Phone,Wired,Unwanted Calls,Fair Oaks,CA,95628
+1375200,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Laguna Niguel,CA,92677
+1375201,TV,Satellite,Availability,Carmichael,CA,95608
+1375208,Internet,Fiber,Speed,Dover,MA,2030
+1375211,TV,Cable,Billing,Willis,MI,48191
+1375212,Internet,Wireless,Billing,Santa Cruz,CA,95062
+1375216,TV,Satellite,Availability,Norhhfield,NH,3276
+1375217,Phone,Wireless (cell phone/other mobile device),Cramming (unauthorized charges on your phone bill),Suquamish,WA,98392
+1375219,Phone,Wireless (cell phone/other mobile device),Equipment,Pompano Beach,FL,33062
+1375220,TV,Cable,Equipment,Groves,TX,77719
+1375224,TV,Satellite,Availability,Independence,KS,67301
+1375230,Internet,Satellite,Equipment,Anchorage,AK,99503
+1375232,TV,Satellite,Availability,Prunedale,CA,93907
+1375238,TV,Satellite,Availability,Palm Bay,FL,32908
+1375240,TV,Broadcast,Availability,Leominster,MA,1453
+1375245,Internet,Wireless,Billing,Canton,NY,13617
+1375246,TV,Satellite,Availability,Bairoil,WY,82322
+1375248,Internet,Fiber,Availability,Ennis,TX,75119
+1375251,Internet,Wireless,Billing,San Francisco,CA,94114
+1375252,TV,Satellite,Availability,Indian Trail,NC,28079
+1375256,TV,Cable,Availability,Ponte Vedre Beach,FL,32082
+1375261,Phone,Wireless (cell phone/other mobile device),Equipment,Santa Clara,CA,95051
+1375262,Internet,DSL,Open Internet/Net Neutrality,Austin,TX,78747
+1375264,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Wauna,WA,98395
+1375265,Phone,Wireless (cell phone/other mobile device),Billing,Stedman,NC,28391
+1375266,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,El Cajon,CA,92019
+1375268,TV,Cable,Availability,Taunton,MA,2780
+1375269,TV,Satellite,Availability,Vergennes,VT,5491
+1375278,Phone,Wired,Billing,Henderson,NV,89011
+1375279,TV,Satellite,Availability,Huber Heights,OH,45424
+1375285,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Newport Beach,CA,92660
+1375287,Internet,DSL,Availability,Casa Grande,AZ,85122
+1375290,Internet,Cable,Speed,Arlington Heights,IL,60004
+1375292,TV,Cable,Availability,Sherwood,OR,97140
+1375294,TV,Satellite,Availability,Dupont,WA,98327
+1375295,Internet,Cable,Speed,Cockeysville,MD,21030
+1375296,Internet,Cable,Open Internet/Net Neutrality,Mogadore,OH,44260
+1375297,Phone,Wired,Availability (including rural call completion),Waynesboro,PA,17268
+1375303,TV,Cable,Indecency,Sebastian,FL,32958
+1375305,TV,Satellite,Availability,Melbourne Beach,FL,32951
+1375306,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Santa Rosa,CA,95404
+1375309,TV,Satellite,Billing,Ypsilanti,MI,48198
+1375313,TV,Satellite,Availability,Seattle,WA,98117
+1375316,TV,Fiber,Availability,St Louis,MO,63110
+1375317,Phone,Wireless (cell phone/other mobile device),Billing,Albuquerque,NM,87109
+1375320,Internet,Cable,Availability,Blacksburg,VA,24060
+1375324,Phone,Wired,Equipment,La Honda,CA,94020
+1375325,TV,Cable,Availability,Portland,OR,97214
+1375329,TV,Cable,Indecency,Na,CA,92101
+1375330,Phone,Wireless (cell phone/other mobile device),Billing,Marion,IA,52302
+1375332,Phone,Wireless (cell phone/other mobile device),Billing,Albuquerque,NM,87109
+1375334,Phone,Wired,Availability (including rural call completion),Hilliard,FL,32046
+1375336,Phone,Wireless (cell phone/other mobile device),Billing,Ann Arbor,MI,48105
+1375338,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Sacramento,CA,95828
+1375339,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Columbia,CT,6237
+1375343,Phone,Wireless (cell phone/other mobile device),Billing,Red Oak,GA,30272
+1375344,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,Perth Amboy,NJ,8861
+1375348,Internet,Wireless,Billing,Franklin,TN,37067
+1375349,TV,Satellite,Availability,Baltimore,MD,21210
+1375353,Internet,Cable,Billing,Pasadena,TX,77502
+1375355,TV,Satellite,Availability,Snellville,GA,30078
+1375360,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,New York,NY,10013
